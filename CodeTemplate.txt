@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Fireboy and Watergirl
+//Lois Huh
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (watergirl or fireboy touches green water) {
+    //dies, game over
 } else {
-    //Add event below
+    //lives, continue
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (fireboy touches blue water) {
+    //dies, game over
 } else {
-    //Add event below
+    //lives, continue
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (fireboy touches red gem) {
+    //collects it
 } else {
-    //Add event below
+    //unable to collect it
 }
 
 
